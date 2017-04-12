@@ -1,4 +1,7 @@
-# ES-KoreanLanguage-List
+# ES Station KoreanLanguage Rom List
+
+tentacle team
+
 
 
 # sudo git clone https://github.com/sana2dang/ES-KoreanLanguage-List.git 
