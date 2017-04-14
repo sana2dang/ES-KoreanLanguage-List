@@ -17,4 +17,6 @@ sudo git clone https://github.com/sana2dang/ES-KoreanLanguage-List.git
 cd ES-KoreanLanguage-List
 sudo chmod 755 ./install.sh
 sudo ./install.sh
+
+attract 에서 "롬파일생성" 을클릭하여 리스트 재생성
 </code></pre>
